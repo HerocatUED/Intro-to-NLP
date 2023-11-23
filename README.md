@@ -1,2 +1,2 @@
 # Intro-to-NLP
-Labs of Intro to NLP (pku 2023 spring)
+Labs of Fundation of NLP (pku 2023 spring)
